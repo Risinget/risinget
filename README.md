@@ -70,9 +70,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
   <img width="12" />
@@ -83,7 +83,7 @@
 
 ###
 
-<h4 align="center">💻Current Known Services: (best ➜ least)</h4>
+<h4 align="center">💻Current Known Services</h4>
 
 ###
 
