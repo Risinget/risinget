@@ -1,6 +1,5 @@
-<div align="center">
-  <img height="320" src="https://github.com/imvast/imvast/raw/main/header.png"  />
-</div>
+![Header](./header.png)
+
 
 ###
 
@@ -120,8 +119,7 @@
 
 ###
 
-<div align="center">
-  <img height="320" src="https://github.com/imvast/imvast/raw/main/footer.png"  />
-</div>
+![Footer](./footer.png)
+
 
 ###
